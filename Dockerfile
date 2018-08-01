@@ -1,7 +1,7 @@
 
 FROM ubuntu
 
-MAINTAINER Kai Gao (gaok12@mails.tsinghua.edu.cn)
+MAINTAINER Kai Gao (kai.gao@emiapwil.com)
 
 RUN apt update
 RUN apt install -y openjdk-8-jdk
